@@ -28,7 +28,8 @@ The objective of the Pizza Sales Analysis Report is to uncover key insights into
    - Created an interactive Power BI dashboard that visualized average daily and monthly sales trends.
    - Designed visual elements to highlight KPIs, enhancing stakeholder engagement and understanding of sales performance.
  
-## Codes used in SQL:
+## Queries used in SQL:
+<a href= "https://github.com/Anshikasethi/Pizza-Sales-analysis/blob/main/Pizza%20Sales%20SQL%20Queries.pdf">Pizza Sales Queries File</a>
 
 ## Dashboard:
 ![image](https://github.com/user-attachments/assets/babc57c5-090f-476c-aadf-ca1e8339cc99)
